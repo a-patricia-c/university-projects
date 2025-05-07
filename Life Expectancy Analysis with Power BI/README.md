@@ -1,3 +1,5 @@
+**Life Expectancy Analysis with Power BI**
+
 In this project, we analyse life expectancy data from Kaggle to gain insights into the health, economic and social factors that influence life expectancy in different countries.
 
 The 'Life Expectancy Data.csv' dataset includes critical variables such as country, year, status, life expectancy, GDP and various health indicators. Once the dataset was imported into Power BI, we began to clean and prepare the data, dealing with missing values.
